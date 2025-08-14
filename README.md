@@ -16,6 +16,13 @@ Key features:
 
 This simulation can be used for studying steady-state heat conduction problems with mixed Dirichlet–Neumann boundary conditions in 2D geometries.
 
+## How to Run
+
+- The code can be found in /src
+- Can be run via the Matlab interface
+- Adjusting is done in the code directly (see code)
+
+
 ## Example Results
 
 Below are example outputs of the 2D FEM radiator simulation:
